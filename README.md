@@ -79,7 +79,6 @@ This design allows Apex to behave less like a static application and more like a
 <img width="1782" height="805" alt="Screenshot 2025-12-14 192258" src="https://github.com/user-attachments/assets/45f94a07-eff9-4d8a-83da-f6b87b445ba4" />
 <img width="1856" height="903" alt="Screenshot 2025-12-14 192146" src="https://github.com/user-attachments/assets/f7469f9e-c98c-4608-9278-5dd6573ab7f8" />
 <img width="1864" height="907" alt="Screenshot 2025-12-11 212015" src="https://github.com/user-attachments/assets/49b7ba36-2106-48e6-b46d-9df6030f550a" />
-<img width="1856" height="902" alt="Screenshot 2025-12-13 174714" src="https://github.com/user-attachments/assets/e944c8cc-9c0a-4eb1-b6e3-ad2730b6ec68" />
 <img width="616" height="733" alt="Screenshot 2025-12-13 192844" src="https://github.com/user-attachments/assets/6709abb2-7acc-445b-b7c5-7362c43b4bc4" />
 <img width="1883" height="918" alt="Screenshot 2025-12-13 192932" src="https://github.com/user-attachments/assets/d02295a8-d592-4f1d-8297-089d8241aeb1" />
 <img width="634" height="810" alt="Screenshot 2025-12-13 204120" src="https://github.com/user-attachments/assets/60371342-f93a-4cf8-baa6-c7226726bd95" />
